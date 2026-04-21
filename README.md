@@ -14,6 +14,14 @@ It replicates core UI features of YouTube such as video browsing, search, and re
 The application consumes **YouTube Fake APIs** to fetch and display video data dynamically, providing a real-world simulation of a video streaming platform.
 
 ---
+## 📸 Screenshots
+**YouTube main page**
+![Alt text](https://github.com/kranthi7581/youtube-clone/blob/main/youtube_clone/src/screenshots/main_page.png)
+
+**YouTube video page**
+![Alt text](https://github.com/kranthi7581/youtube-clone/blob/main/youtube_clone/src/screenshots/video_page.png)
+
+---
 
 ## 🚀 Features
 
@@ -96,12 +104,6 @@ This project uses a YouTube data API (via RapidAPI or similar service).
 * Create an account on RapidAPI
 * Generate API key
 * Replace API key in your project (usually inside `utils` or API service file)
-
----
-
-## 📸 Screenshots
-
-*Add screenshots here (Home Page, Search Results, Mobile View, etc.)*
 
 ---
 
